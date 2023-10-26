@@ -1,2 +1,3 @@
 Adding a line to the file.
-Line 2
+Line 2 changed.
+add 3rd feature.
